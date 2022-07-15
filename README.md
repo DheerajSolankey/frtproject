@@ -1,8 +1,8 @@
-##frt:FUTURE READY TALENT project by Dheeraj Solankey
+#frt:FUTURE READY TALENT project by Dheeraj Solankey
 
 I have created a job search website which help needy people to find their dream job respective to their knowledge ,skills and talent .
 
-##Project website link: https://salmon-rock-0c5766310.1.azurestaticapps.net/
+#Project website link: https://salmon-rock-0c5766310.1.azurestaticapps.net/
 #Homepage
 ![Screenshot (24)](https://user-images.githubusercontent.com/99274908/179265196-f875ec96-e5d3-4adb-813e-aa3f68b1569f.png)
 #Available jobs page
